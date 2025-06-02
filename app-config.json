@@ -1,4 +1,9 @@
 {
+  "appid": "1626448212471942259",
+  "version": "1.0.0",
+  "description": "A clothing store mini app",
+  "icon": "icon.png",
+  "splashscreen": "splashscreen.png",
   "app": {
     "title": "Clothing store",
     "textColor": "black",
